@@ -37,16 +37,3 @@ Total revenue calculated from all orders:
 ### 🔹 Best Performing Product
 
 👉 **Laptop**
-
-## 💡 Key Insights
-
-* Laptop generated the highest revenue overall
-* Phone had multiple sales but lower total revenue than laptop
-* Aggregation is essential to understand product performance
-
-## 🚀 Future Improvements
-
-* Use pandas for advanced data analysis
-* Add data visualization (matplotlib / seaborn)
-* Work with real CSV datasets
-
